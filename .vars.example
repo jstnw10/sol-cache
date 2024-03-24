@@ -1,0 +1,2 @@
+#this file contains your secret variables
+rpc_url = "https://api.mainnet-beta.solana.com"
