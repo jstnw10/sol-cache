@@ -15,7 +15,7 @@ Currently supported:
 
 ## Configuration
 
-You need to create a `.dev.vars` file in the root of the project. Copy the contetns of `.vars.example` and modify the values as needed.
+Create a `.dev.vars` file in the root of the project. Copy the contetns of `.vars.example` and modify the values as needed.
 
 ## Local Development
 
